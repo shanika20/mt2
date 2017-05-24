@@ -1,0 +1,17 @@
+1. Creating Category A and B pages
+2. Onepage checkout
+3. Postcode lookup https://marketplace.magento.com/media/files/documentation/10504/Postcode_Lookup_Magento_2.pdf
+4. Sticky Header
+5.Countdown Timer
+6. Image roll over on category
+7. Optin and Opt out email/third party
+8. Delivery methods
+9. Redirects
+
+phase 2
+
+10.Quote builder
+11. VAT Switcher
+12. Advanced Automated Email System
+13. Weekly Deal System
+14. Promotional Messages, Image Attribute System
